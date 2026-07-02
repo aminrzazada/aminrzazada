@@ -23,7 +23,7 @@ I am a Data Scientist and Analyst specializing in Generative AI, transforming co
 
 ## 🎯 Current Focus
 *   Learning Advanced Machine Learning algorithms, Advanced SQL optimization, and building complex Multi-Agent AI workflows.
-*   Preparing for the IELTS exam (Target: 7.0 - 7.5).
+
 
 ---
 
