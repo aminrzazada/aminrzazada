@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aminrzazada.png" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 # Hi there, I'm Amin! 👋
 
 I am a **Data Scientist & Analyst** specializing in **Generative AI**, dedicated to transforming complex data into predictive models and automated, AI-driven workflows.
